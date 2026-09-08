@@ -12,8 +12,7 @@ sites:
     url: https://www.google.com
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Site
-    url: https://thissitedoesnotexist.example
+  
   
     
 
