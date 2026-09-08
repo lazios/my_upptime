@@ -7,6 +7,7 @@ sites:
     url: $SECRET_SITE
     type: globalping
     location: Frankfurt
+    ipv6: true
   - name: Google
     url: https://www.google.com
   - name: Hacker News
