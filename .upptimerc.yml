@@ -11,6 +11,7 @@ sites:
     url: $SECRET_SITE
     type: globalping
     check: tcp-ping
+    port: 40557
     location: Frankfurt
 
 status-website:
