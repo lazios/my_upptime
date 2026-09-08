@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fritz-box-monitor",
     "status": "up",
-    "uptime": "23.66%",
-    "uptimeDay": "23.66%",
-    "uptimeWeek": "23.66%",
-    "uptimeMonth": "23.66%",
-    "uptimeYear": "23.66%",
+    "uptime": "23.74%",
+    "uptimeDay": "23.74%",
+    "uptimeWeek": "23.74%",
+    "uptimeMonth": "23.74%",
+    "uptimeYear": "23.74%",
     "time": 259,
     "timeDay": 259,
     "timeWeek": 259,
@@ -61,16 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.example.ico",
     "slug": "test-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "66.01%",
+    "uptimeDay": "66.01%",
+    "uptimeWeek": "66.01%",
+    "uptimeMonth": "66.01%",
+    "uptimeYear": "66.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-08": 0
+    }
   }
 ]
