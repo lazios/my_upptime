@@ -5,12 +5,13 @@ repo: my_upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Secret Site
+  - name: FritzBox Monitor
     url: $SECRET_SITE
+    type: globalping
+    check: tcp-ping
+    location: Frankfurt
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
