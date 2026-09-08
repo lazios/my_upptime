@@ -10,29 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 76,
-    "timeDay": 76,
-    "timeWeek": 76,
-    "timeMonth": 76,
-    "timeYear": 76,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 322,
-    "timeWeek": 322,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {}
   },
   {
@@ -46,21 +28,21 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 214,
-    "timeWeek": 214,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "time": 320,
+    "timeDay": 320,
+    "timeWeek": 320,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Secret Site",
+    "name": "FritzBox Monitor",
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "secret-site",
+    "slug": "fritz-box-monitor",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,8 +51,6 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-09-08": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
