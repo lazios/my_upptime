@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fritz-box-monitor",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
-    "time": 267,
-    "timeDay": 226,
-    "timeWeek": 286,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 264,
+    "timeDay": 231,
+    "timeWeek": 283,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2026-09-08": 65
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 82,
-    "timeWeek": 81,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "time": 86,
+    "timeDay": 156,
+    "timeWeek": 95,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 82,
-    "timeWeek": 211,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 236,
+    "timeDay": 381,
+    "timeWeek": 212,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   }
 ]
